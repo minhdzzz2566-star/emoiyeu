@@ -51,7 +51,7 @@ function dangnhap() {
         }, 150);
 
         setTimeout(function () {
-           window.open("TrangChu.html","_blank");
+           window.open("Traitim.html","_blank");
         }, 1000);
 
     } else {
@@ -70,3 +70,4 @@ document.getElementById("pass").value = "";
 document.getElementById("thongbao").innerHTML = "";
 
 }
+
